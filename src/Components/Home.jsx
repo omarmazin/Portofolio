@@ -15,10 +15,9 @@ const Home = () => {
             I'm a Front End Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Detail-oriented Front End Developer with more than 2 years 
-            experience working with HTML, CSS, Javascript and React.js .
-            Highly adept at both independent and and collaborative projects, 
-            with an ephasis on landing page and website development .
+            I have 2 year of experience building and desgining software.
+            Currently, Interested to work on web application using technologies like
+            React, Tailwind, Typescript and Next.Js .
           </p>
           <div>
             <Link

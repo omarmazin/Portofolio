@@ -14,7 +14,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: "https://github.com/omarmazin/Notification-Page-/blob/main/design/desktop-preview.jpg",
+      src: "https://raw.githubusercontent.com/omarmazin/Notification-Page-/main/design/desktop-preview.jpg",
       link: "https://notification-page-blush.vercel.app/",
       pname: "Notification Page",
     },

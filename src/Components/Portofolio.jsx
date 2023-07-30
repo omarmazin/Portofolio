@@ -1,8 +1,8 @@
 import React from "react";
 // import CoinsVision from "../Assets/Projects/CoinsVision.jpg";
 // import CurrencyConverter from "../Assets/Projects/CurrencyConverter.jpg";
-// import ProgramManager from "../Assets/Projects/ProgramManager.jpeg";
-// import TodoList from "../Assets/Projects/TodoList.jpg";
+import ProgramManager from "../Assets/Projects/ProgramManager.jpeg";
+import TodoList from "../Assets/Projects/TodoList.jpg";
 
 const Portfolio = () => {
   const portfolios = [

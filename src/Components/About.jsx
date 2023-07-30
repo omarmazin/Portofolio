@@ -13,9 +13,10 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Omar is a passionate person who loves science and technology, a web
-          developer and content maker, and seeks to work in an ambitious
-          environment to develop his skills
+          Detail-oriented Front End Developer with more than 2 years 
+          experience working with HTML, CSS, Javascript and React.js .
+          Highly adept at both independent and and collaborative projects, 
+          with an ephasis on landing page and website development .
         </p>
       </div>
     </div>

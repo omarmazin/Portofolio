@@ -1,22 +1,22 @@
 import React from "react";
-import CoinsVision from "../Assets/Projects/CoinsVision.jpg";
-import CurrencyConverter from "../Assets/Projects/CurrencyConverter.jpg";
-import ProgramManager from "../Assets/Projects/ProgramManager.jpeg";
-import TodoList from "../Assets/Projects/TodoList.jpg";
+// import CoinsVision from "../Assets/Projects/CoinsVision.jpg";
+// import CurrencyConverter from "../Assets/Projects/CurrencyConverter.jpg";
+// import ProgramManager from "../Assets/Projects/ProgramManager.jpeg";
+// import TodoList from "../Assets/Projects/TodoList.jpg";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: CoinsVision,
-      link: "https://github.com/omarmazin/CoinVision-Web",
-      pname: "Coins Vision",
+      src: "https://user-images.githubusercontent.com/77233657/250461014-ae3aae9e-100e-4886-b9e8-b84e077a97e2.png",
+      link: "https://admin-panel-wine-mu.vercel.app/",
+      pname: "Admin Panel",
     },
     {
       id: 2,
-      src: CurrencyConverter,
-      link: "https://github.com/omarmazin/Currency-Converter",
-      pname: "Currency Converter",
+      src: "https://github.com/omarmazin/Notification-Page-/blob/main/design/desktop-preview.jpg",
+      link: "https://notification-page-blush.vercel.app/",
+      pname: "Notification Page",
     },
     {
       id: 3,

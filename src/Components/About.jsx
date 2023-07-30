@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <p className="text-xl mt-20">
           Detail-oriented Front End Developer with more than 2 years 
-          experience working with HTML, CSS, Javascript and React.js .
+          experience working with Javascript,Tailwind and React.js .
           Highly adept at both independent and and collaborative projects, 
           with an ephasis on landing page and website development .
         </p>
